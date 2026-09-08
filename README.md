@@ -1,4 +1,4 @@
-# Hi, I'm Tar 👋
+# Hi, I'm Tar
 
 **Kongpop Thipud** — 19, Computer Science @ KMITL (Ladkrabang, Bangkok)
 
@@ -6,10 +6,10 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 
 ## What I'm into
 
-- 🏆 Competitive Programming (Codeforces)
-- 🚩 CTF — web & crypto
-- 📝 Tutorial content & teaching POSN math
-- ⚙️ Workflow automation (n8n + Claude)
+- Competitive Programming (Codeforces)
+- CTF — web & crypto
+- Tutorial content & teaching POSN math
+- Workflow automation (n8n + Claude)
 
 ## Stack
 
@@ -19,11 +19,11 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 
 | Project | What |
 |---|---|
-| 📚 [docs.s4intpez.online](https://docs.s4intpez.online) | My notes & docs site |
-| 📅 KMITL Calendar app | Course calendar helper |
-| 🧠 Pezsonality Quiz | Personality quiz web app |
-| 💰 FinMatch | Pitch deck project |
-| 🏠 Homelab (`s4intpez-01`) | Self-hosted Docker: Caddy + Homepage + Zipline + Jellyfin |
+| [docs.s4intpez.online](https://docs.s4intpez.online) | My notes & docs site |
+| KMITL Calendar app | Course calendar helper |
+| Pezsonality Quiz | Personality quiz web app |
+| FinMatch | Pitch deck project |
+| Homelab (`s4intpez-01`) | Self-hosted Docker: Caddy + Homepage + Zipline + Jellyfin |
 
 ## GitHub stats
 
@@ -31,5 +31,5 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 
 ## Where to find me
 
-- 🌐 [s4intpez.online](https://s4intpez.online)
-- 📫 `69050021@kmitl.ac.th`
+- [s4intpez.online](https://s4intpez.online)
+- `69050021@kmitl.ac.th`
