@@ -24,3 +24,7 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 | Pezsonality Quiz | Personality quiz web app |
 | FinMatch | Pitch deck project |
 | Homelab (`s4intpez-01`) | Self-hosted Docker: Caddy + Homepage + Zipline + Jellyfin |
+
+## Now playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ml6redd46orpll2dljp5utvqai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
