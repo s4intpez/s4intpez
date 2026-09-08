@@ -1,4 +1,4 @@
-# Hi, I'm Taa 👋
+# Hi, I'm Tar 👋
 
 **Kongpop Thipud** — 19, Computer Science @ KMITL (Ladkrabang, Bangkok)
 
@@ -27,7 +27,7 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 
 ## GitHub stats
 
-![Taa's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4intpez&show_icons=true&theme=github_dark)
+![Tar's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4intpez&show_icons=true&theme=github_dark)
 
 ## Where to find me
 
