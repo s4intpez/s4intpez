@@ -24,12 +24,3 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 | Pezsonality Quiz | Personality quiz web app |
 | FinMatch | Pitch deck project |
 | Homelab (`s4intpez-01`) | Self-hosted Docker: Caddy + Homepage + Zipline + Jellyfin |
-
-## GitHub stats
-
-![Tar's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4intpez&show_icons=true&theme=github_dark)
-
-## Where to find me
-
-- [s4intpez.online](https://s4intpez.online)
-- `69050021@kmitl.ac.th`
