@@ -20,11 +20,7 @@ POSN Computer camp 1 & 2 · into competitive programming, CTF, and building thin
 | Project | What |
 |---|---|
 | [docs.s4intpez.online](https://docs.s4intpez.online) | My notes & docs site |
-| web-pos | Real restaurant POS — cashier, kitchen display, customer QR ordering, PromptPay payments |
-| KMITL Calendar app | Course calendar helper |
-| Pezsonality Quiz | Personality quiz web app |
-| FinMatch | Pitch deck project |
-| Homelab (`s4intpez-01`) | Self-hosted Docker: Caddy + Homepage + Zipline + Jellyfin |
+| [todo.s4intpez.online](https://todo.s4intpez.online) | My todo app |
 
 ## Now playing
 
