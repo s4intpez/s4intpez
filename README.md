@@ -1,8 +1,8 @@
 # Hi, I'm Tar
 
-**Kongpop Thipud** — 19, Computer Science @ KMITL (Ladkrabang, Bangkok)
+**Kongpop Thiput** — 19, Computer Science @ KMITL (Ladkrabang, Bangkok)
 
-POSN Computer camp 1 & 2 · into competitive programming, CTF, and building things that live on the internet.
+POSN Computer Camp 1 & 2 · into competitive programming, CTF, and building things that live on the internet.
 
 [![Email](https://img.shields.io/badge/Email-p.ezt4r%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:p.ezt4r@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Pez.Shopz-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Pez.Shopz)
