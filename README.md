@@ -4,6 +4,12 @@
 
 POSN Computer camp 1 & 2 · into competitive programming, CTF, and building things that live on the internet.
 
+[![Email](https://img.shields.io/badge/Email-p.ezt4r%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:p.ezt4r@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-Pez.Shopz-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/Pez.Shopz)
+[![GitHub](https://img.shields.io/badge/GitHub-s4intpez-181717?style=flat&logo=github&logoColor=white)](https://github.com/s4intpez)
+
+🔭 Currently: building [todo.s4intpez.online](https://todo.s4intpez.online) + writing notes on [docs.s4intpez.online](https://docs.s4intpez.online)
+
 ## What I'm into
 
 - Competitive Programming (Codeforces)
